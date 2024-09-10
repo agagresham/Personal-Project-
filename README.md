@@ -26,7 +26,7 @@ import seaborn as sns
 
 
 # load data into Pandas DataFrame 
-df = pd.read_csv('/Users/agnieszkagresham/Desktop/data_for_poftfolio/employee_survey.csv')
+df = pd.read_csv('/Users/...')
 
 
 # In[125]:
